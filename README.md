@@ -1,5 +1,5 @@
-Example programming demonstrating using [forcefeed][1] SSE API in
-javascript inside a browser.
+Example program demonstrating using [forcefeed][1] SSE API in
+Javascript inside a browser.
 
 Notice that in order to use this example program, your browser should
 support SSE (which any modern browser, except IE should).
